@@ -1,0 +1,19 @@
+# Core dependencies
+paramiko         # SSH brute force module
+requests         # HTTP Basic Auth and HTTP handling
+dnspython        # DNS handling (if expanded)
+ftplib           # Python built-in for FTP (already standard, no pip install)
+
+# PDF and HTML report generation
+reportlab        # PDF report export
+pdfkit           # Optional for HTML-to-PDF conversion (if used)
+wkhtmltopdf      # Binary needed for pdfkit (system install)
+
+# CLI interface
+rich             # Optional for fancy CLI displays (if later integrated)
+
+# Flask (if web dashboard or API is implemented)
+flask            # Not used yet, but useful for future real-time web dashboards
+
+# General tools
+argparse         # Built-in: used for CLI interface (no need to pip install)

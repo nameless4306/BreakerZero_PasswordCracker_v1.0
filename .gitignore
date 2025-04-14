@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Bytecode cache
+__pycache__/
+*.pyc
+
+# Reports and exports (optional - uncomment to ignore auto-generated files)
+# reports/*.txt
+# reports/*.pdf
+# reports/*.html
+
+# Environment / virtualenv (optional if used)
+# venv/
