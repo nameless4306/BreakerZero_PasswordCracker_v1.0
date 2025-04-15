@@ -1,5 +1,5 @@
 """
-BreakerZero v1.0 - Dynamic Password Cracking Toolkit
+BreakerZero v1.0 - Dynamic Password Cracking Toolkit by @BackdoorAli aka NotAlita
 """
 
 import argparse
